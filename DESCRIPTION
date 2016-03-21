@@ -1,4 +1,4 @@
-Package: gitstats
+Package: test
 Type: Package
 Title: Gitstats application for OpenCPU
 Version: 0.2.7
