@@ -1,4 +1,4 @@
-export(gitstats)
+export(test)
 import(jsonlite)
 import(ggplot2)
 import(httr)
